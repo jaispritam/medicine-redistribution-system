@@ -6,22 +6,22 @@ Goal: Reduce medicine wastage by detecting expiry dates automatically and enabli
 
 Core Features (Planned):
 
-  OCR-based expiry date detection from images
+ - OCR-based expiry date detection from images
 
-  Verification dashboard for pharmacies/NGOs
+ - Verification dashboard for pharmacies/NGOs
 
-  Donation tracking and pickup coordination
+ - Donation tracking and pickup coordination
 
-  Secure data management for safety compliance
+ - Secure data management for safety compliance
 
 Tech Stack (Planned):
 
-  Frontend: React / HTML-CSS-JS
+ - Frontend: React / HTML-CSS-JS
 
-  Backend: Node.js / Express
+ - Backend: Node.js / Express
 
-  Database: MongoDB
+ - Database: MongoDB
 
-  AI/ML: Python (Tesseract OCR / ImageAI)
+ - AI/ML: Python (Tesseract OCR / ImageAI)
 
 
